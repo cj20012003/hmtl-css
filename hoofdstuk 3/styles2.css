@@ -1,0 +1,27 @@
+p{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100;
+    font-weight: bold;
+    text-align: center;
+    background-color: aqua;
+    padding: 25px;
+    margin-top: -25px;
+}
+h1{
+    background-color: black;
+    font-family:'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    padding: 25px;
+    border-style: groove;
+    list-style-type: square;
+    position:top;
+
+}
+html{
+    background-image: url(images/powercover.jpg) ;
+    background-repeat: repeat;
+}
